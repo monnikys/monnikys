@@ -38,7 +38,7 @@
 [![HTML](https://icongr.am/devicon/html5-original-wordmark.svg?size=30&color=currentColor)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=30&color=currentColor)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 [![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor)](https://www.python.org/)
-[![Figma](https://icongr.am/simple/figma.svg?size=30&color=ff4000&colored=false)](https://www.figma.com/)
+[![Figma](https://img.icons8.com/?size=30&id=zfHRZ6i1Wg0U&format=png&color=000000)](https://www.figma.com/)
 [![Power-BI](https://icongr.am/simple/powerbi.svg?size=30&color=ffc800&colored=false)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
   
