@@ -38,15 +38,28 @@
 ![HTML](https://icongr.am/devicon/html5-original-wordmark.svg?size=30&color=currentColor)&nbsp;
 ![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=30&color=currentColor)&nbsp;
 ![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor)&nbsp;
-![Docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=30&color=currentColor)&nbsp;
 ![LinkedIn](https://icongr.am/devicon/linkedin-original.svg?size=30&color=currentColor)&nbsp;
 ![Figma](https://icongr.am/simple/figma.svg?size=30&color=ff4000&colored=false)&nbsp;
+![Power-BI](https://icongr.am/simple/powerbi.svg?size=30&color=ffc800&colored=false)&nbsp;
 
   
 ### Studying in this moment:
 ![My-SQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=30&color=currentColor)&nbsp;
-![Power-BI](https://icongr.am/simple/powerbi.svg?size=30&color=ffc800&colored=false)&nbsp;
+![PHP](https://icongr.am/devicon/php-original.svg?size=30&color=currentColor)&nbsp;
+![React](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)&nbsp;
+![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor)&nbsp;
 ![Oracle](https://icongr.am/devicon/oracle-original.svg?size=30&color=currentColor)&nbsp;
+![PowerApps](https://img.icons8.com/?size=30&id=jXuZmZPUKCPS&format=png&color=000000)&nbsp;
+![Docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=30&color=currentColor)&nbsp;
+![JQuery](https://img.icons8.com/?size=30&id=9Um0Q4sZ0QCC&format=png&color=000000)&nbsp;
+![Bootstrap](https://img.icons8.com/?size=30&id=g9mmSxx3SwAI&format=png&color=000000)&nbsp;
+![API](https://img.icons8.com/?size=30&id=21896&format=png&color=000000)&nbsp;
+![JS](https://img.icons8.com/?size=30&id=108784&format=png&color=000000)&nbsp;
+![SASS](https://img.icons8.com/?size=30&id=QBqFNfPPB2Kx&format=png&color=000000)&nbsp;
+![IONIC](https://img.icons8.com/?size=30&id=MOXQrrrUbTVA&format=png&color=000000)&nbsp;
+![Apache](https://icongr.am/devicon/apache-original.svg?size=30&color=currentColor)&nbsp;
+![GIT](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
