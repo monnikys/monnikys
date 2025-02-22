@@ -28,10 +28,9 @@
 
 ### Tools:
 [![Visual-Studio-Code](https://icongr.am/devicon/visualstudio-plain.svg?size=30&color=currentColor)](https://code.visualstudio.com/)
-
-![Postgresql](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=30&color=currentColor)&nbsp;
-![Windows](https://icongr.am/devicon/windows8-original.svg?size=30&color=currentColor)&nbsp;
-![Microsoft-Office](https://icongr.am/simple/microsoftoffice.svg?size=30&color=44a25b&colored=false)&nbsp;
+[![Postgresql](https://icongr.am/devicon/postgresql-original-wordmark.svg?size=30&color=currentColor)](https://www.postgresql.org/)
+[![Windows](https://icongr.am/devicon/windows8-original.svg?size=30&color=currentColor)](https://www.microsoft.com/pt-br/windows/?r=1)
+[![Microsoft-Office](https://icongr.am/simple/microsoftoffice.svg?size=30&color=44a25b&colored=false)](https://www.microsoft.com/pt-br/microsoft-365)
 
  
 ### Other Knowledge:
