@@ -35,30 +35,29 @@
  
 ### Other Knowledge:
 
-![HTML](https://icongr.am/devicon/html5-original-wordmark.svg?size=30&color=currentColor)&nbsp;
-![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=30&color=currentColor)&nbsp;
-![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor)&nbsp;
-![LinkedIn](https://icongr.am/devicon/linkedin-original.svg?size=30&color=currentColor)&nbsp;
-![Figma](https://icongr.am/simple/figma.svg?size=30&color=ff4000&colored=false)&nbsp;
-![Power-BI](https://icongr.am/simple/powerbi.svg?size=30&color=ffc800&colored=false)&nbsp;
+[![HTML](https://icongr.am/devicon/html5-original-wordmark.svg?size=30&color=currentColor)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[![CSS](https://icongr.am/devicon/css3-original-wordmark.svg?size=30&color=currentColor)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[![Python](https://icongr.am/devicon/python-original.svg?size=30&color=currentColor)](https://www.python.org/)
+[![Figma](https://icongr.am/simple/figma.svg?size=30&color=ff4000&colored=false)](https://www.figma.com/)
+[![Power-BI](https://icongr.am/simple/powerbi.svg?size=30&color=ffc800&colored=false)](https://www.microsoft.com/pt-br/power-platform/products/power-bi)
 
   
 ### Studying in this moment:
-![My-SQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=30&color=currentColor)&nbsp;
-![PHP](https://icongr.am/devicon/php-original.svg?size=30&color=currentColor)&nbsp;
-![React](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)&nbsp;
-![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor)&nbsp;
-![Oracle](https://icongr.am/devicon/oracle-original.svg?size=30&color=currentColor)&nbsp;
-![PowerApps](https://img.icons8.com/?size=30&id=jXuZmZPUKCPS&format=png&color=000000)&nbsp;
-![Docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=30&color=currentColor)&nbsp;
-![JQuery](https://img.icons8.com/?size=30&id=9Um0Q4sZ0QCC&format=png&color=000000)&nbsp;
-![Bootstrap](https://img.icons8.com/?size=30&id=g9mmSxx3SwAI&format=png&color=000000)&nbsp;
-![API](https://img.icons8.com/?size=30&id=21896&format=png&color=000000)&nbsp;
-![JS](https://img.icons8.com/?size=30&id=108784&format=png&color=000000)&nbsp;
-![SASS](https://img.icons8.com/?size=30&id=QBqFNfPPB2Kx&format=png&color=000000)&nbsp;
-![IONIC](https://img.icons8.com/?size=30&id=MOXQrrrUbTVA&format=png&color=000000)&nbsp;
-![Apache](https://icongr.am/devicon/apache-original.svg?size=30&color=currentColor)&nbsp;
-![GIT](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)&nbsp;
+[![My-SQL](https://icongr.am/devicon/mysql-original-wordmark.svg?size=30&color=currentColor)](https://www.mysql.com/)
+[![PHP](https://icongr.am/devicon/php-original.svg?size=30&color=currentColor)](https://www.php.net/)
+[![React](https://icongr.am/devicon/react-original.svg?size=30&color=currentColor)](https://react.dev/)
+[![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=30&color=currentColor)](https://www.typescriptlang.org/)
+[![Oracle](https://icongr.am/devicon/oracle-original.svg?size=30&color=currentColor)](https://www.oracle.com/br/downloads/)
+[![PowerApps](https://img.icons8.com/?size=30&id=jXuZmZPUKCPS&format=png&color=000000)](https://www.microsoft.com/pt-br/power-platform/products/power-apps)
+[![Docker](https://icongr.am/devicon/docker-original-wordmark.svg?size=30&color=currentColor)](https://www.docker.com/)
+[![JQuery](https://img.icons8.com/?size=30&id=9Um0Q4sZ0QCC&format=png&color=000000)](https://jquery.com/)
+[![Bootstrap](https://img.icons8.com/?size=30&id=g9mmSxx3SwAI&format=png&color=000000)](https://getbootstrap.com/)
+[![API](https://img.icons8.com/?size=30&id=21896&format=png&color=000000)](https://aws.amazon.com/pt/what-is/api/#:~:text=API%20significa%20Application%20Programming%20Interface,de%20servi%C3%A7o%20entre%20duas%20aplica%C3%A7%C3%B5es.)
+[![JS](https://img.icons8.com/?size=30&id=108784&format=png&color=000000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![SASS](https://img.icons8.com/?size=30&id=QBqFNfPPB2Kx&format=png&color=000000)](https://sass-lang.com/)
+[![IONIC](https://img.icons8.com/?size=30&id=MOXQrrrUbTVA&format=png&color=000000)](https://ionicframework.com/)
+[![Apache](https://icongr.am/devicon/apache-original.svg?size=30&color=currentColor)](https://httpd.apache.org/)
+[![GIT](https://icongr.am/devicon/git-original.svg?size=30&color=currentColor)](https://git-scm.com/)
 
 
 <div align="center">
