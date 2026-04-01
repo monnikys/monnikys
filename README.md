@@ -6,12 +6,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffc1d5&size=35&center=true&vCenter=true&width=1000&lines=OI,+MEU+NOME+é+Monniky+Ribeiro;Sou+Analista+de+Dados+DBA+|+Business+Inteligence+|+IA;Sou+de+Brasília,+DF;Seja+Bem-+Vindo!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=monnikys&show_icons=true&count_private=true&hide_border=true&title_color=fc6998&icon_color=fc6998&text_color=fc6998&bg_color=ffc1d5" alt="Monniky Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monnikys&layout=compact&hide_border=true&title_color=fc6998&text_color=fc6998&bg_color=ffc1d5" />
-</div>
-
 <div align="center">  
  <img height = "100px" src="https://user-images.githubusercontent.com/92947069/183308602-5b5810ac-0990-45e6-b448-043c239db400.gif"/>
 </div>
